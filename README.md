@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### Hello! My name is Misha. I'm Junior Java/Spring Developer. I study at the Belarusian State University of Informatics and Radioelectronics.
 
 
