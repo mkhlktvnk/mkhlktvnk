@@ -15,5 +15,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkhlktvnk&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkhlktvnk&theme=solarized_dark)
 [![](https://visitcount.itsvg.in/api?id=mkhlktvnk&icon=1&color=3)](https://visitcount.itsvg.in)
-![GitHub followers](https://img.shields.io/github/followers/mkhlktvnk?style=social)
-![Github Gist stars](https://img.shields.io/github/gist/stars/mkhlktvnk?style=social)
